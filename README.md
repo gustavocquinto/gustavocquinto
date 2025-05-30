@@ -28,10 +28,10 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um desenvolvedor e atualmente focado n
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="75"/>      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg" height="75"/>
  </p>
- 
+ <p align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="75"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  height="75"/>
- 
+  </p>
           
        
           
