@@ -13,9 +13,11 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um desenvolvedor e atualmente focado n
   - Backend: [PHP, Laravel, JavaScript, Python, C#]
   - Banco de Dados: [MySQL, MongoDB, etc.]
   - Ferramentas: [Git, OWASPZap, VS Code, SonarQube, Postman, Selenium, Jira]
+<p align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="60" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="60" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg" height="60"/>
+</p>
           
           
 
