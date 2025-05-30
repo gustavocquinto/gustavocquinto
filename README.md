@@ -31,8 +31,8 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um desenvolvedor e atualmente focado n
 
 ## 📈 Estatísticas
 
-![Seu nome no GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavocquinto&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocquinto&layout=compact&theme=dracula)
+![Seu nome no GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavocquinto&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocquinto&layout=compact&theme=radical)
 
 ## 📫 Como me encontrar
 
