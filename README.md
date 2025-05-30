@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Gustavo Quinto, mas pode me chamar de Quinto.
 
-Bem-vindo(a) ao meu perfil do GitHub! Sou um desenvolvedor e atualmente focado na área de Qualidade de Software, apaixonado por tecnologia, inovação e por criar soluções que impactam positivamente a vida das pessoas.
+Bem-vindo(a) ao meu perfil do GitHub! Sou um desenvolvedor, atualmente focado na área de Qualidade de Software, apaixonado por tecnologia, inovação e por criar soluções que impactam positivamente a vida das pessoas.
 
 ## 🚀 Sobre mim
 
