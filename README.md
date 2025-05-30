@@ -36,7 +36,7 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um desenvolvedor, atualmente focado na
 
 ## 📫 Como me encontrar
 
-- LinkedIn: [linkedin.com/in/gustavo-quinto-882631213](https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/gustavo-quinto-882631213/))
+- LinkedIn: [linkedin.com/in/gustavo-quinto](https://www.linkedin.com/in/gustavo-quinto/))
 - Email: [gustavo.carneiro.quinto10@gmail.com](mailto:gustavo.carneiro.quinto10@gmail.com)
 
 ---
