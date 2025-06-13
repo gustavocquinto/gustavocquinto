@@ -34,6 +34,12 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um desenvolvedor, atualmente focado na
 ![Seu nome no GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavocquinto&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocquinto&layout=compact&theme=radical)
 
+<div align="center">
+  <br><p align="center"><b>Quantidade de visitantes</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gustavocquinto}/count.svg" /></p> 
+  <br>
+</div>
+
 ## 📫 Como me encontrar
 
 - LinkedIn: [linkedin.com/in/gustavo-quinto](https://www.linkedin.com/in/gustavo-quinto/))
