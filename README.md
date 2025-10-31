@@ -6,7 +6,7 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um desenvolvedor, atualmente focado na
 
 - 🎓 Formação: Graduado em Sistemas para Internet
 - 💼 Atualmente trabalho como: Analista de Qualidade de Software. Além de desenvolver projeto de automações de testes, totalmente do zero.
-- 🌱 Estudando atualmente: Python e Selenium.
+- 🌱 Estudando atualmente: Playwright.
 - 💡 Interesses: Desenvolvimento Web, CTFL, Inteligência Artificial
 - 🛠️ Tech Stack:
   - Frontend: [React.js, HTML, CSS, JavaScript, TypeScript]
